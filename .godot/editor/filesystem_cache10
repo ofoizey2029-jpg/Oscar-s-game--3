@@ -1,0 +1,25 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1768509881
+icon.svg::CompressedTexture2D::2482620516543220471::1768505640::1768505651::1::::<><><>0<>0<>125a95c165212bc1295cfd61ac6e232f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1768510219
+LICENSE & CREDITS.txt::TextFile::-1::1768510219::0::1::::<><><>0<>0<><>::
+::res://Assets/fonts/::1768510222
+PixelOperator8-Bold.ttf::FontFile::167694761831646607::1768510219::1768510222::1::::<><><>0<>0<>74377f76f0ee790bb65564941eaa5acb<>res://.godot/imported/PixelOperator8-Bold.ttf-18d3f5771d654272ea5e81396761520b.fontdata::
+PixelOperator8.ttf::FontFile::3453531722406405272::1768510219::1768510222::1::::<><><>0<>0<>f1b0aaff2d023cec5547a53eba6adda8<>res://.godot/imported/PixelOperator8.ttf-23bb57fce2fe6dbb570e8add02d65ecc.fontdata::
+::res://Assets/music/::1768510222
+time_for_adventure.mp3::AudioStreamMP3::7632797983680785539::1768510219::1768510222::1::::<><><>0<>0<>952edee9972847fbafdce9fe7cc64b7b<>res://.godot/imported/time_for_adventure.mp3-03457712da64731c4f2e6ca402d9e56d.mp3str::
+::res://Assets/sounds/::1768510222
+coin.wav::AudioStreamWAV::6351713663043816127::1768510219::1768510223::1::::<><><>0<>0<>ef07858c15f722bc20c97d92c516a369<>res://.godot/imported/coin.wav-a90ab7f02c97268f62cd0d3d51198a0f.sample::
+explosion.wav::AudioStreamWAV::9117518589254764594::1768510219::1768510223::1::::<><><>0<>0<>8dafdcca339bb0ca290a7b64e5422305<>res://.godot/imported/explosion.wav-93aee333cdacd774a9e9de2a83478f9f.sample::
+hurt.wav::AudioStreamWAV::1188243350146521911::1768510219::1768510223::1::::<><><>0<>0<>b54f99e07a8b1b3b8fa51b5b3b8a9636<>res://.godot/imported/hurt.wav-03eae188dc5364720c82bf41f5cac6a9.sample::
+jump.wav::AudioStreamWAV::8910908782706620964::1768510219::1768510223::1::::<><><>0<>0<>91ef408a47e0e4e62531205a7a071441<>res://.godot/imported/jump.wav-37a1b6f890a57621d547e6e872aeb357.sample::
+power_up.wav::AudioStreamWAV::5509632857545724010::1768510219::1768510223::1::::<><><>0<>0<>fbfc617247d6481c6bafd52d126525fe<>res://.godot/imported/power_up.wav-359f8a6678099d5ff83eaa154a913f3b.sample::
+tap.wav::AudioStreamWAV::3166728256366394336::1768510219::1768510223::1::::<><><>0<>0<>5af08a02f559d5e72baad8cee17d11e0<>res://.godot/imported/tap.wav-4501df6b6e4c02632fcee28bfc6332c4.sample::
+::res://Assets/sprites/::1768510222
+coin.png::CompressedTexture2D::8494074018122189334::1768510219::1768510223::1::::<><><>0<>0<>651c749d460b0a96dd750c0c7f9c57aa<>res://.godot/imported/coin.png-5cebf264b7708a56a3ce47f5a666e217.ctex::
+fruit.png::CompressedTexture2D::6786074912261138758::1768510219::1768510223::1::::<><><>0<>0<>0b63746fc15b1a5589762e45ae6b2e46<>res://.godot/imported/fruit.png-ffffa8b0de582e4e19865d6cd600e2dd.ctex::
+knight.png::CompressedTexture2D::7930212716569406672::1768510219::1768510223::1::::<><><>0<>0<>2b4d47e047cf3c24592275d63fe78382<>res://.godot/imported/knight.png-f2df08b890c4ea830c735d8e0f73a8e2.ctex::
+platforms.png::CompressedTexture2D::1648374890850407421::1768510219::1768510223::1::::<><><>0<>0<>bc18d7d677e78c45f27669524a8c3277<>res://.godot/imported/platforms.png-102ba142b90069627c83acab39f3928e.ctex::
+slime_green.png::CompressedTexture2D::7430134436719733899::1768510219::1768510223::1::::<><><>0<>0<>7b87be3403a4f58ca06e3448d41cfd5c<>res://.godot/imported/slime_green.png-82ab2b7a3783e85117231b17359f2c2e.ctex::
+slime_purple.png::CompressedTexture2D::1941382019314645912::1768510219::1768510223::1::::<><><>0<>0<>5dbfaafeeabd49724b5dc230c84bfd4c<>res://.godot/imported/slime_purple.png-43dfa43f13125aefcc7affc07742c2cf.ctex::
+world_tileset.png::CompressedTexture2D::4831168438082094812::1768510219::1768510223::1::::<><><>0<>0<>e78ac5132dc0bcf710745cb40619af56<>res://.godot/imported/world_tileset.png-7d0351459d02dec97d7c98fe9a06c85b.ctex::

@@ -1,0 +1,5 @@
+AnimatedSprite2D
+TileMap
+MeshInstance3D
+CollisionShape3D
+StaticBody3D
