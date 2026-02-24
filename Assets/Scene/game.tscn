@@ -1,0 +1,85 @@
+[gd_scene load_steps=16 format=3 uid="uid://d1fry24s038dp"]
+
+[ext_resource type="PackedScene" uid="uid://cgs7c42srivqk" path="res://Assets/Scene/platform.tscn" id="1_mhtsl"]
+[ext_resource type="Texture2D" path="res://Assets/sprites/pixil-frame-0.png" id="2_xn0nd"]
+[ext_resource type="Texture2D" path="res://Assets/sprites/pixil-frame-0 (1).png" id="3_q485k"]
+[ext_resource type="Texture2D" path="res://Assets/sprites/pixil-frame-0 (2).png" id="4_bvub4"]
+[ext_resource type="Texture2D" path="res://Assets/pixil-frame-0 (3).png" id="5_0c6ry"]
+[ext_resource type="Texture2D" path="res://Assets/pixil-frame-0 (7).png" id="9_n772j"]
+[ext_resource type="Texture2D" path="res://Assets/pixil-frame-0 (8).png" id="10_5wnj1"]
+[ext_resource type="Texture2D" uid="uid://cfjsauflwx06j" path="res://Assets/Village Tower (14).png" id="11_5wnj1"]
+[ext_resource type="Texture2D" path="res://Assets/pixil-frame-0 (22).png" id="12_028d2"]
+[ext_resource type="Texture2D" path="res://Assets/pixil-frame-0 (12).png" id="13_bj825"]
+[ext_resource type="Texture2D" path="res://Assets/sprites/pixil-frame-0 (23).png" id="13_oelwb"]
+[ext_resource type="Texture2D" uid="uid://cm3h3vwc25rac" path="res://Assets/sprites/pixil-frame-0 (24).png" id="14_v5u5q"]
+[ext_resource type="Texture2D" uid="uid://dv5115gss1vma" path="res://Assets/sprites/pixil-frame-0 (26).png" id="15_v5u5q"]
+[ext_resource type="Texture2D" path="res://Assets/pixil-frame-0 (15).png" id="16_bj825"]
+[ext_resource type="Texture2D" path="res://Assets/pixil-frame-0 (16).png" id="17_l577d"]
+
+[node name="Game" type="Node2D"]
+
+[node name="StaticBody2D" parent="." instance=ExtResource("1_mhtsl")]
+position = Vector2(28, -15)
+
+[node name="Ant (0)" type="Sprite2D" parent="."]
+position = Vector2(93, 68)
+texture = ExtResource("2_xn0nd")
+
+[node name="Moving Ant 1 (1)" type="Sprite2D" parent="."]
+position = Vector2(106, 68)
+texture = ExtResource("3_q485k")
+
+[node name="Moving Ant 2 (2)" type="Sprite2D" parent="."]
+position = Vector2(121, 67)
+texture = ExtResource("4_bvub4")
+
+[node name="Mantis (3)" type="Sprite2D" parent="."]
+position = Vector2(141.00002, 65.00001)
+scale = Vector2(1.7749999, 1.74875)
+texture = ExtResource("5_0c6ry")
+
+[node name="Spider (7)" type="Sprite2D" parent="."]
+position = Vector2(288, 72)
+scale = Vector2(1.14, 1.14)
+texture = ExtResource("9_n772j")
+
+[node name="Scorpion (8)" type="Sprite2D" parent="."]
+position = Vector2(320, 56)
+scale = Vector2(1.09, 1.12)
+texture = ExtResource("10_5wnj1")
+
+[node name="Dirt Block (12)" type="Sprite2D" parent="."]
+position = Vector2(65.99997, 72)
+scale = Vector2(1.37, 1.5050001)
+texture = ExtResource("13_bj825")
+
+[node name="Mantis House (15)" type="Sprite2D" parent="."]
+position = Vector2(198, 53.000004)
+scale = Vector2(1.92, 2.06)
+texture = ExtResource("16_bj825")
+
+[node name="Cobweb (16)" type="Sprite2D" parent="."]
+position = Vector2(363, 69)
+texture = ExtResource("17_l577d")
+
+[node name="VillageTower(14)" type="Sprite2D" parent="."]
+position = Vector2(251, 45)
+scale = Vector2(1.815, 1.94)
+texture = ExtResource("11_5wnj1")
+
+[node name="Sun (22)" type="Sprite2D" parent="."]
+position = Vector2(147, 39)
+texture = ExtResource("12_028d2")
+
+[node name="Setting Sun (23)" type="Sprite2D" parent="."]
+position = Vector2(104, 38)
+texture = ExtResource("13_oelwb")
+
+[node name="PixilFrame0(24)" type="Sprite2D" parent="."]
+position = Vector2(292, 26)
+texture = ExtResource("14_v5u5q")
+
+[node name="PixilFrame0(26)" type="Sprite2D" parent="."]
+position = Vector2(394, 61)
+scale = Vector2(1.36, 1.28)
+texture = ExtResource("15_v5u5q")
