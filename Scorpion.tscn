@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://dtpxs7lq2oqa7"]
+
+[ext_resource type="Texture2D" uid="uid://clkqxpmcbu22g" path="res://Assets/sprites/pixil-frame-0 (31).png" id="1_ydlfb"]
+[ext_resource type="Texture2D" uid="uid://qn4vc8xbfoou" path="res://Assets/sprites/pixil-frame-0 (32).png" id="2_ma3ct"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_klgoh"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_ydlfb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ma3ct")
+}],
+"loop": true,
+"name": &"default",
+"speed": 6.5
+}]
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_klgoh")
+frame_progress = 0.9986815

@@ -1,11 +1,14 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1770321361
+::res://::1773235333
+character_body_2d.tscn::PackedScene::9046092680224754358::1772734697::0::1::::<><><>0<>0<><>::uid://n16fo5u786so::::res://Assets/sprites/pixil-frame-0 (29).png<>uid://cgxoqbf5l55s3::::res://Assets/sprites/pixil-frame-0 (30).png
 collision_shape_2d.gd::GDScript::3639067194658422202::1769117706::0::1::::<>CharacterBody2D<><>0<>0<><>::
 export_presets.cfg::TextFile::-1::1770321361::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::2482620516543220471::1768505640::1768505651::1::::<><><>0<>0<>125a95c165212bc1295cfd61ac6e232f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 index.apple-touch-icon.png::CompressedTexture2D::2769096961419768786::1770320434::1770320234::1::::<><><>0<>0<>5f3256f1bdefcf3037bd467aa2555c8d<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
 index.icon.png::CompressedTexture2D::5225543766687426815::1770320434::1770320463::1::::<><><>0<>0<>1a7884f34bbe39460b6f0b9ca68e710f<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
 index.png::CompressedTexture2D::7474947583576269275::1770320434::1770320234::1::::<><><>0<>0<>d277c9f6e299e6c94fc1335dfe224516<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
+Scorpion.tscn::PackedScene::8525246080140401728::1773170768::0::1::::<><><>0<>0<><>::uid://clkqxpmcbu22g::::res://Assets/sprites/pixil-frame-0 (31).png<>uid://qn4vc8xbfoou::::res://Assets/sprites/pixil-frame-0 (32).png
+Spider.tscn::PackedScene::5002471999564321050::1773170750::0::1::::<><><>0<>0<><>::uid://n16fo5u786so::::res://Assets/sprites/pixil-frame-0 (29).png<>uid://cgxoqbf5l55s3::::res://Assets/sprites/pixil-frame-0 (30).png
 ::res://Assets/::1770926217
 Bee (5).png::CompressedTexture2D::3465012651716653668::1769795741::1770923862::1::::<><><>0<>0<>13b95367a54b0fc80231563847df14b5<>res://.godot/imported/Bee (5).png-0cb4be69bdee4082f2a7fea146a76ea4.ctex::
 Bee House (21).png::CompressedTexture2D::5752625714567766251::1770395467::1770925067::1::::<><><>0<>0<>7a8d6ec20c8271124c24493d118c30bf<>res://.godot/imported/Bee House (21).png-fc704b2d2caaa38336340893628767cf.ctex::
@@ -35,10 +38,12 @@ PixelOperator8.ttf::FontFile::3453531722406405272::1768510219::1768510222::1::::
 pixil-frame-0 (3).png::CompressedTexture2D::2360557692220400849::1769790480::1769790480::1::::<><><>0<>0<>621b1a7d958d2b21d50b1c3ea2432d8a<>res://.godot/imported/pixil-frame-0 (3).png-5d78fd5c9e856a01ae835bb20bddbc3f.ctex::
 ::res://Assets/music/::1768510222
 time_for_adventure.mp3::AudioStreamMP3::7632797983680785539::1768510219::1768510222::1::::<><><>0<>0<>952edee9972847fbafdce9fe7cc64b7b<>res://.godot/imported/time_for_adventure.mp3-03457712da64731c4f2e6ca402d9e56d.mp3str::
-::res://Assets/Scene/::1770931110
-character_body_2d.tscn::PackedScene::1499692933498416344::1769117721::0::1::::<><><>0<>0<><>::uid://bbmunrficdyp8::::res://icon.svg
+::res://Assets/Scene/::1773170817
+Ant.tscn::PackedScene::1037494990239817052::1773170817::0::1::::<><><>0<>0<><>::uid://bs7f1fi5bxona::::res://Assets/sprites/Moving Ant 1 (1).png<>uid://c0061br3tg7m::::res://Assets/sprites/Moving Ant 2 (2).png
+Centipede.tscn::PackedScene::8172140321008344926::1773170784::0::1::::<><><>0<>0<><>::uid://c2nme3jbcwb5l::::res://Assets/sprites/pixil-frame-0 (27).png<>uid://s5fwaok80yla::::res://Assets/sprites/pixil-frame-0 (28).png
+character_body_2d.tscn::PackedScene::1499692933498416344::1772141591::0::1::::<><><>0<>0<><>::uid://bs7f1fi5bxona::::res://Assets/sprites/Moving Ant 1 (1).png<>uid://c0061br3tg7m::::res://Assets/sprites/Moving Ant 2 (2).png
 collision_shape_2d.tscn::PackedScene::5215218760929641585::1769718402::0::1::::<><><>0<>0<><>::uid://bbmunrficdyp8::::res://icon.svg<>uid://dtaufm0ej8863::::res://Assets/sprites/coin.png
-game.tscn::PackedScene::8995570386151358185::1770931109::0::1::::<><><>0<>0<><>::uid://cgs7c42srivqk::::res://Assets/Scene/platform.tscn<>res://Assets/sprites/pixil-frame-0.png<>res://Assets/sprites/pixil-frame-0 (1).png<>res://Assets/sprites/pixil-frame-0 (2).png<>res://Assets/pixil-frame-0 (3).png<>res://Assets/pixil-frame-0 (7).png<>res://Assets/pixil-frame-0 (8).png<>uid://cfjsauflwx06j::::res://Assets/Village Tower (14).png<>res://Assets/pixil-frame-0 (22).png<>res://Assets/pixil-frame-0 (12).png<>uid://3grjnpec6xbf::::res://Assets/sprites/pixil-frame-0 (23).png<>uid://cm3h3vwc25rac::::res://Assets/sprites/pixil-frame-0 (24).png<>res://Assets/pixil-frame-0 (15).png<>res://Assets/pixil-frame-0 (16).png
+game.tscn::PackedScene::8995570386151358185::1772734152::0::1::::<><><>0<>0<><>::uid://cgs7c42srivqk::::res://Assets/Scene/platform.tscn
 platform.tscn::PackedScene::5233081309871577038::1769113525::0::1::::<><><>0<>0<><>::uid://xqqq1vkqf574::::res://Assets/sprites/platforms.png
 ::res://Assets/sounds/::1768510223
 coin.wav::AudioStreamWAV::6351713663043816127::1768510219::1768510223::1::::<><><>0<>0<>ef07858c15f722bc20c97d92c516a369<>res://.godot/imported/coin.wav-a90ab7f02c97268f62cd0d3d51198a0f.sample::
@@ -47,7 +52,7 @@ hurt.wav::AudioStreamWAV::1188243350146521911::1768510219::1768510223::1::::<><>
 jump.wav::AudioStreamWAV::8910908782706620964::1768510219::1768510223::1::::<><><>0<>0<>91ef408a47e0e4e62531205a7a071441<>res://.godot/imported/jump.wav-37a1b6f890a57621d547e6e872aeb357.sample::
 power_up.wav::AudioStreamWAV::5509632857545724010::1768510219::1768510223::1::::<><><>0<>0<>fbfc617247d6481c6bafd52d126525fe<>res://.godot/imported/power_up.wav-359f8a6678099d5ff83eaa154a913f3b.sample::
 tap.wav::AudioStreamWAV::3166728256366394336::1768510219::1768510223::1::::<><><>0<>0<>5af08a02f559d5e72baad8cee17d11e0<>res://.godot/imported/tap.wav-4501df6b6e4c02632fcee28bfc6332c4.sample::
-::res://Assets/sprites/::1771872782
+::res://Assets/sprites/::1772210151
 Ant (0).png::CompressedTexture2D::3742359038968739964::1769721451::1770924046::1::::<><><>0<>0<>74aaaa45d4da16b3e0ea8edd3f17f474<>res://.godot/imported/Ant (0).png-c2e11416c752af1afb958d0b7fe19577.ctex::
 coin.png::CompressedTexture2D::8494074018122189334::1768510219::1769718402::1::::<><><>0<>0<>651c749d460b0a96dd750c0c7f9c57aa<>res://.godot/imported/coin.png-5cebf264b7708a56a3ce47f5a666e217.ctex::
 fruit.png::CompressedTexture2D::6786074912261138758::1768510219::1768510223::1::::<><><>0<>0<>0b63746fc15b1a5589762e45ae6b2e46<>res://.godot/imported/fruit.png-ffffa8b0de582e4e19865d6cd600e2dd.ctex::
@@ -57,6 +62,13 @@ Moving Ant 2 (2).png::CompressedTexture2D::193561783520255132::1769722060::17709
 pixil-frame-0 (24).png::CompressedTexture2D::5673386226439167654::1770930909::1770930909::1::::<><><>0<>0<>6ab23d1fd4442729803d6580d3449a12<>res://.godot/imported/pixil-frame-0 (24).png-38ff1883c1ca17c567a4a5722a7512f8.ctex::
 pixil-frame-0 (25).png::CompressedTexture2D::7303287628368152633::1770931033::1770931033::1::::<><><>0<>0<>1efbce211154f6437b95229d1a61d15c<>res://.godot/imported/pixil-frame-0 (25).png-633a09c7a8b3cdeb0991ecd9669e6a94.ctex::
 pixil-frame-0 (26).png::CompressedTexture2D::8696785758365500956::1771872782::1771872782::1::::<><><>0<>0<>34ce67d106258084698e5f5c973901f0<>res://.godot/imported/pixil-frame-0 (26).png-5e5957f5a2f38a69816898853d395e09.ctex::
+pixil-frame-0 (27).png::CompressedTexture2D::6695514288110689467::1772135327::1772135328::1::::<><><>0<>0<>43ac7ea7fc38d159e391fe38acb2e188<>res://.godot/imported/pixil-frame-0 (27).png-1a598eafbea9770f6df4278e8d9a214d.ctex::
+pixil-frame-0 (28).png::CompressedTexture2D::1325673412662842094::1772135842::1772135843::1::::<><><>0<>0<>70b543623e076429eee1d851f6f11453<>res://.godot/imported/pixil-frame-0 (28).png-165619ddfa00b1f4f3a7bd3254f02815.ctex::
+pixil-frame-0 (29).png::CompressedTexture2D::968020727269099254::1772139446::1772139447::1::::<><><>0<>0<>3c749e9a939b8b152f903463460696e7<>res://.godot/imported/pixil-frame-0 (29).png-2304a41a926655f47d462ec1ebfe6427.ctex::
+pixil-frame-0 (30).png::CompressedTexture2D::5242333789785329176::1772139626::1772139627::1::::<><><>0<>0<>5874b77f69cc9c4558341a07e1f1ad4e<>res://.godot/imported/pixil-frame-0 (30).png-de80840d2293833cfbf6314f7a35d55e.ctex::
+pixil-frame-0 (31).png::CompressedTexture2D::5566575776570162680::1772207631::1772207631::1::::<><><>0<>0<>6c03b94a49d433f556872e7c73b5385a<>res://.godot/imported/pixil-frame-0 (31).png-224b7a7ff5f6fa6419f71b3b31cfe2ac.ctex::
+pixil-frame-0 (32).png::CompressedTexture2D::1151656860545335808::1772207681::1772207681::1::::<><><>0<>0<>5b41535544ab770c8b791931a47aa2d0<>res://.godot/imported/pixil-frame-0 (32).png-c5203d65827b7904411caeffa9f6af01.ctex::
+pixil-frame-0 (33).png::CompressedTexture2D::2194720158152578187::1772210150::1772210151::1::::<><><>0<>0<>7637203c03ff9b5032cbee6ec53e4f08<>res://.godot/imported/pixil-frame-0 (33).png-dbc5a3c74b9850420599a4a13f3980f2.ctex::
 platforms.png::CompressedTexture2D::1648374890850407421::1768510219::1768510223::1::::<><><>0<>0<>bc18d7d677e78c45f27669524a8c3277<>res://.godot/imported/platforms.png-102ba142b90069627c83acab39f3928e.ctex::
 Setting Sun (23).png::CompressedTexture2D::5851821154214363347::1770928058::1771545167::1::::<><><>0<>0<>f858315f366342aeaf4215d82a4a0585<>res://.godot/imported/Setting Sun (23).png-8836dc125a3584fabeeaba84517ab309.ctex::
 slime_green.png::CompressedTexture2D::7430134436719733899::1768510219::1768510223::1::::<><><>0<>0<>7b87be3403a4f58ca06e3448d41cfd5c<>res://.godot/imported/slime_green.png-82ab2b7a3783e85117231b17359f2c2e.ctex::

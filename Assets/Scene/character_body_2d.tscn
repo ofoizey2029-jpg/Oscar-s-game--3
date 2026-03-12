@@ -1,15 +1,32 @@
-[gd_scene load_steps=3 format=3 uid="uid://vmpyumyiagyq"]
+[gd_scene load_steps=5 format=3 uid="uid://vmpyumyiagyq"]
 
-[ext_resource type="Texture2D" uid="uid://bbmunrficdyp8" path="res://icon.svg" id="1_la1h0"]
+[ext_resource type="Texture2D" uid="uid://bs7f1fi5bxona" path="res://Assets/sprites/Moving Ant 1 (1).png" id="2_4utq0"]
+[ext_resource type="Texture2D" uid="uid://c0061br3tg7m" path="res://Assets/sprites/Moving Ant 2 (2).png" id="3_3nmlq"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_yx0hs"]
 size = Vector2(130, 128)
 
+[sub_resource type="SpriteFrames" id="SpriteFrames_ain1p"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_4utq0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_3nmlq")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
 [node name="CharacterBody2D" type="CharacterBody2D"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(10, 26)
+position = Vector2(250, 103)
 shape = SubResource("RectangleShape2D_yx0hs")
 
-[node name="Icon" type="Sprite2D" parent="CollisionShape2D"]
-texture = ExtResource("1_la1h0")
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(20, 12)
+sprite_frames = SubResource("SpriteFrames_ain1p")
+frame_progress = 0.51404405

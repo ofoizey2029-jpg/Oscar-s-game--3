@@ -1,0 +1,35 @@
+[gd_scene load_steps=6 format=3 uid="uid://cdjh8okmg2fve"]
+
+[ext_resource type="Script" uid="uid://cx638elp0r1i3" path="res://spider.gd" id="1_ln14a"]
+[ext_resource type="Texture2D" uid="uid://n16fo5u786so" path="res://Assets/sprites/pixil-frame-0 (29).png" id="1_vbg4t"]
+[ext_resource type="Texture2D" uid="uid://cgxoqbf5l55s3" path="res://Assets/sprites/pixil-frame-0 (30).png" id="2_ln14a"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vbg4t"]
+size = Vector2(34, 20)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_44cfe"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_vbg4t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ln14a")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 6.5
+}]
+
+[node name="CharacterBody2D" type="Area2D"]
+script = ExtResource("1_ln14a")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(54, 22)
+shape = SubResource("RectangleShape2D_vbg4t")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(54, 30)
+sprite_frames = SubResource("SpriteFrames_44cfe")
+animation = &"walk"
+frame_progress = 0.321835
