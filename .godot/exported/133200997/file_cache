@@ -1,4 +1,10 @@
-res://Assets/Scene/character_body_2d.tscn::3c4eed9ca37556dd261da9f4311547d7::1769117721::res://.godot/exported/133200997/export-5c7d354001a51b209b5f1631dba27a35-character_body_2d.scn
+res://Assets/Scene/character_body_2d.tscn::2ec10cf6cb46b84f4c5d5ee76de42052::1772141591::res://.godot/exported/133200997/export-5c7d354001a51b209b5f1631dba27a35-character_body_2d.scn
 res://Assets/Scene/collision_shape_2d.tscn::6c22567cf8c92b323d52616f59413cad::1769718402::res://.godot/exported/133200997/export-76b9d2024f31bf1f1977e74481766a18-collision_shape_2d.scn
-res://Assets/Scene/game.tscn::74935260fe1e0421f7bcb0294f35367f::1770306741::res://.godot/exported/133200997/export-1ffe940e77fb0299b861fcadc9a0e69a-game.scn
+res://Assets/Scene/game.tscn::b483c75f1b8371fe8cc0980ca3d77d45::1775159199::res://.godot/exported/133200997/export-1ffe940e77fb0299b861fcadc9a0e69a-game.scn
 res://Assets/Scene/platform.tscn::741feaf23157e90fcd13b484d583e479::1769113525::res://.godot/exported/133200997/export-c5bbb70abd0b4c66735c5d33c325cf46-platform.scn
+res://Assets/Scene/Ant.tscn::fe78637428613ccc5f1c0844e3efeb43::1773345083::res://.godot/exported/133200997/export-e8479017837f0fbd29a1ce87e32d0108-Ant.scn
+res://Assets/Scene/Centipede.tscn::2cafb7322406dd3a1a1c823c9d143574::1773170784::res://.godot/exported/133200997/export-593b37b5278cf1997be45f521040d516-Centipede.scn
+res://character_body_2d.tscn::a67b41a1d4f64818e6ce3970637701a7::1772734697::res://.godot/exported/133200997/export-25eb6ab7203e76730ffb59dd2891996c-character_body_2d.scn
+res://Scorpion.tscn::b9309a20b2c5468ae1d8505776d61ccf::1773170768::res://.godot/exported/133200997/export-97f008980b1146533f19e8b9ef3cf573-Scorpion.scn
+res://Spider.tscn::362d3342ede8b42d483d0ea25e24b14a::1773347651::res://.godot/exported/133200997/export-4be5a823b30e66a9965a4621cbd78a7b-Spider.scn
+res://mainmenu.tscn::d5af64f14003f6cba7a5f938781bcb13::1775155939::res://.godot/exported/133200997/export-cf97c0526909cefae368ac4c5ddec4e2-mainmenu.scn

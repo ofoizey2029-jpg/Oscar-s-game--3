@@ -1,5 +1,5 @@
+res://spider1.gd
+res://mainmenu.tscn
+res://mainmenu.gd
 res://Assets/Scene/game.tscn
-res://Assets/Scene/Ant.tscn
 res://Assets/Scene/ant.gd
-res://Spider.tscn
-res://spider.gd

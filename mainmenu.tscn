@@ -1,0 +1,25 @@
+[gd_scene load_steps=3 format=3 uid="uid://botybdmvblx5m"]
+
+[ext_resource type="Script" uid="uid://bbiyo54p1cbg0" path="res://mainmenu.gd" id="1_cmhrf"]
+[ext_resource type="PackedScene" uid="uid://d1fry24s038dp" path="res://Assets/Scene/game.tscn" id="2_d2nv2"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_cmhrf")
+levelscene = ExtResource("2_d2nv2")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Button" type="Button" parent="CanvasLayer"]
+offset_left = 481.0
+offset_top = 300.0
+offset_right = 760.0
+offset_bottom = 394.0
+text = "Start"
+
+[connection signal="pressed" from="CanvasLayer/Button" to="." method="_on_button_pressed"]
